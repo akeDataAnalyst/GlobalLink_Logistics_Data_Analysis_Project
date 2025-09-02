@@ -3,6 +3,7 @@ This repository contains the files and a high-level overview of a data analysis 
 
 ## Project Components
 **Data Generation:** Python script used to create a synthetic dataset
+
 **Data Analysis:** Key insights on revenue, shipping performance, and geographical trends
 
 **Final Report:** A detailed Google Doc outlining the full methodology, analysis, and recommendations
@@ -13,7 +14,7 @@ This repository contains the files and a high-level overview of a data analysis 
 **Python:** For data generation.
 
 **Google Sheets:** For data cleansing and preparation.
-Dataset plus Pivot tables- [https://docs.google.com/spreadsheets/d/1Dc7LYO9lNTDC9sxXzJ1M33rUvge4cICQ2Pbxeh1uFW8/edit?usp=sharing]
+*Dataset plus Pivot tables:* [https://docs.google.com/spreadsheets/d/1Dc7LYO9lNTDC9sxXzJ1M33rUvge4cICQ2Pbxeh1uFW8/edit?usp=sharing]
 
 **Tableau:** For data visualization and dashboard creation.
 
