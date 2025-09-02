@@ -13,7 +13,7 @@ This repository contains the files and a high-level overview of a data analysis 
 **Python:** For data generation.
 
 **Google Sheets:** For data cleansing and preparation.
-[https://docs.google.com/spreadsheets/d/1Dc7LYO9lNTDC9sxXzJ1M33rUvge4cICQ2Pbxeh1uFW8/edit?usp=sharing]
+Dataset plus Pivot tables- [https://docs.google.com/spreadsheets/d/1Dc7LYO9lNTDC9sxXzJ1M33rUvge4cICQ2Pbxeh1uFW8/edit?usp=sharing]
 
 **Tableau:** For data visualization and dashboard creation.
 
